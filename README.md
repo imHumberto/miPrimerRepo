@@ -3,6 +3,6 @@ Mi primer repositorio
 
 Mi primera contribucion local para github
 
-un commit mas desde GitHub
+Un commit mas desde GitHub
 
-UNa actualizacion mas
+Una actualizacion mas
